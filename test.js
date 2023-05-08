@@ -6,3 +6,4 @@ console.log("Kasle");
 console.log("hello");
 console.log("Hi");
 console.log("Test");
+console.log("Test 2");
